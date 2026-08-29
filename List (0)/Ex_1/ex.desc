@@ -1,0 +1,11 @@
+Crie um programa que solicite dois números inteiros e calcule: soma, subtração, multiplicação e divisão.
+Apresente os resultados utilizando mensagens.
+Exemplo:
+
+Digite o primeiro número: 10
+Digite o segundo número: 5
+
+A soma é: 15
+A subtração é:5
+A multiplicação é: 50
+A divisão é: 2.0

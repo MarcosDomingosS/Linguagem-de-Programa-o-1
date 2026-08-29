@@ -1,0 +1,12 @@
+Crie um programa que solicite o nome do aluno, três notas e calcule a média aritmética
+Calcule a média:
+media = (nota1 + nota2 + nota3) / 3
+Apresente o resultado junto com o nome do aluno.
+Exemplo:
+
+Nome: Maria
+Nota 1: 8
+Nota 2: 7
+Nota 3: 9
+
+A média de Maria é 8.0.
