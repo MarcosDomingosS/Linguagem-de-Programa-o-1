@@ -1,0 +1,3 @@
+2. Endereço completo
+Solicite separadamente rua, número, bairro, cidade e estado. Depois, monte
+e apresente o endereço completo utilizando concatenação.
