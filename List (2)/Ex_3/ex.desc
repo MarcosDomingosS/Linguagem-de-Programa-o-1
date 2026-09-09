@@ -1,0 +1,4 @@
+3.  Verificação de senha 
+Considere que a senha correta do sistema seja "python123". Solicite uma 
+senha ao usuário e compare-a com a senha cadastrada. Se forem iguais, 
+apresente "Acesso permitido". Caso contrário, apresente "Senha incorreta". 

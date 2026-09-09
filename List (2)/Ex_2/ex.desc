@@ -1,0 +1,4 @@
+2.  Desconto em uma compra 
+Solicite o valor de uma compra. Se o valor for maior ou igual a R$ 200,00, 
+aplique desconto de 10%. Caso contrário, mantenha o valor original. 
+Apresente o valor da compra, o desconto e o valor final.

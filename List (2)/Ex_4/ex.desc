@@ -1,0 +1,6 @@
+4. Pagamento de horas extras 
+Solicite a quantidade de horas trabalhadas durante a semana e o valor 
+recebido por hora. A jornada normal é de 40 horas. 
+Se o funcionário trabalhar até 40 horas, calcule normalmente: 
+salário = horas × valor da hora 
+Caso ultrapasse 40 horas, as horas excedentes de

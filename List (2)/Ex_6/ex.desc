@@ -1,0 +1,5 @@
+6. Divisão segura 
+Solicite dois números e realize a divisão do primeiro pelo segundo. Antes de 
+realizar o cálculo, verifique o segundo número: 
+• se for diferente de zero, realize e apresente a divisão; 
+• caso contrário, apresente "Não é possível realizar divisão por zero".
